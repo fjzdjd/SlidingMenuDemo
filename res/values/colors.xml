@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="ics_blue_semi">#6633b5e5</color>
+    <!-- listview -->
+    <color name="background_app">#dedede</color>
+    <color name="background_list_back">#e3e3e3</color>
+    <color name="background_list_front">#ffffff</color>
+    <color name="text_title">#444444</color>
+    <color name="text_description">#7e7e7e</color>
+    <color name="line">#ffbcbcbc</color>
+
+</resources>

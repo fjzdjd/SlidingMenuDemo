@@ -1,0 +1,44 @@
+<!--
+ <?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sliding_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+-->
+
+
+<!-- <?xml version="1.0" encoding="utf-8"?> -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/menu_01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_menu_home"
+        android:text="@string/one" />
+
+    <Button
+        android:id="@+id/menu_02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_menu_home"
+        android:text="@string/two" />
+
+    <Button
+        android:id="@+id/menu_03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_menu_home"
+        android:text="@string/three" />
+
+    <Button
+        android:id="@+id/menu_04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_menu_home"
+        android:text="@string/four" />
+
+</LinearLayout>

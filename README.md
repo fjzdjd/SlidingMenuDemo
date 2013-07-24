@@ -1,4 +1,4 @@
-SlidingMenuDemo
+SlidingMenuDemo  最近比较闲，整理下自己的代码，把一些常用的东西开源下
 ===============
 
 可定制的侧滑菜单SlidingMenuDemo

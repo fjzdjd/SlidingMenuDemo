@@ -22,9 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        
-        <activity android:name="com.hand.some.smd.ui.main.MainTimeLineActivity"
-            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.hand.some.smd.ui.main.MainTimeLineActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity android:name="com.hand.some.smd.ui.test.TestActivity" >
+        </activity>
     </application>
 
 </manifest>
